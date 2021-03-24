@@ -1,6 +1,6 @@
 import { useContext } from 'react'
 import { ChallengesContext } from '../contexts/ChallengesContext'
-import styles from '../styles/components/experieceBar.module.css'
+import styles from '../styles/components/ExperieceBar.module.css'
 
 export function ExperieceBar() {
     const { currentExperience, experienceToNextLevel, challengesCompleted } = useContext(ChallengesContext)
