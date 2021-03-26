@@ -24,7 +24,7 @@ export default function Home(props: HomeProps) {
     >
       <div className={styles.container}>
         <Head>
-          <title>Início | Move.It - by SILVA, I. A.</title>
+          <title>Início | Move.It - by Izael silva</title>
         </Head>
 
         <ExperieceBar />
